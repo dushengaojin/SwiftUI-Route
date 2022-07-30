@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "SwiftUIRoute"
-  s.version          = '0.0.2'
+  s.version          = '0.0.3'
   s.summary          = "SwiftUIRoute is a easy way to manage your routers"
   s.swift_version    = '5.0'
   s.description      = <<-DESC

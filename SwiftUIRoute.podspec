@@ -9,7 +9,7 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/dushengaojin/SwiftUI-Route'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Daolang Huang' => 'h_daodao@163.com' }
-  s.source           = { :git => 'https://github.com/dushengaojin/SwiftUI-Route.git', :tag => "#{name}-" + s.version.to_s }
+  s.source           = { :git => 'https://github.com/dushengaojin/SwiftUI-Route.git', :tag => "SwiftUIRoute-" + s.version.to_s }
   s.ios.deployment_target = '14.0'
   s.cocoapods_version = '>= 1.10.0'
   s.static_framework = false

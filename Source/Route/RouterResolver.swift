@@ -40,7 +40,6 @@ class RouterResolver {
     }
     
     func addRouterPath(isActive: IsActive) {
-        routePaths.removeAll(where: { !$0.isActive })
         routePaths.append(isActive)
     }
     
